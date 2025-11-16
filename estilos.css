@@ -1,0 +1,19 @@
+footer {
+    background: #4a7bd8;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+footer p {
+    margin: 5px 0;
+}
+footer .social {
+    margin-top: 8px;
+}
+footer .social a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
